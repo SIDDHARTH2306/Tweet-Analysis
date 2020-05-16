@@ -1,0 +1,5 @@
+sudo ./spark-2.4.4-bin-hadoop2.7/sbin/start-master.sh
+
+sudo ./spark-2.4.4-bin-hadoop2.7/sbin/start-slave.sh spark://ip-172-31-19-193.us-east-2.compute.internal:7077
+
+bin/spark-submit --master spark://ip-172-31-19-193.us-east-2.compute.internal:7077 Read.py

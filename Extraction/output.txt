@@ -1,0 +1,31 @@
+{
+  "Canada": 8,
+  "University": 2130,
+  "bad schools": 0,
+  "computer science": 1,
+  "dalhousie": 0,
+  "education": 51,
+  "expensive": 2,
+  "faculty": 8,
+  "good schools": 0,
+  "graduate": 71,
+  "halifax": 0,
+  "poor school": 0,
+  "poor schools": 0,
+  "school": 99
+}{
+  "Canada": 0,
+  "University": 0,
+  "bad schools": 0,
+  "computer science": 0,
+  "dalhousie": 0,
+  "education": 0,
+  "expensive": 0,
+  "faculty": 0,
+  "good schools": 0,
+  "graduate": 0,
+  "halifax": 0,
+  "poor school": 0,
+  "poor schools": 0,
+  "school": 0
+}
